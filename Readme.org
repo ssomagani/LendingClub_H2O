@@ -1,0 +1,18 @@
+<2018-04-13 Fri 05:10> Supporting documentation
+
+
+* Stored Procedures
+
+** Handling of null date values
+
+* Flow
+
+** Proper conversion of date/time fields
+
+* Client
+
+** Conversion of double values
+
+* Handling of large number of columns
+
+** Cleanup or manual verification isn't practical

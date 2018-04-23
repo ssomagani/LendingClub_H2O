@@ -1,0 +1,4 @@
+<deployment>
+   <cluster hostcount="1" sitesperhost="1"/>
+</deployment>
+
